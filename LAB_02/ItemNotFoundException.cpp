@@ -1,0 +1,13 @@
+/*
+AUTHOR: BENJAMIN STREIT
+KU ID: 2853772
+NAME OF FILE: ITEMNOTFOUNDEXCEPTION.CPP
+LAST MODIFIED: 09/24/17
+FILE CONTENTS: IMPLEMENTATION FILE FOR ITEMNOTFOUNDEXCEPTION CLASS
+*/
+
+#include "ItemNotFoundException.h"
+
+/*ItemNotFoundException::ItemNotFoundException(std::string err) {
+    m_err = err;
+};*/

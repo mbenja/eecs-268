@@ -1,0 +1,8 @@
+start sort
+sort calls prepare
+start showfiles
+sort returns
+showfiles calls whoozit
+showfiles returns
+showfiles returns
+sort returns

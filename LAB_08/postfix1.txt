@@ -1,0 +1,1 @@
+alpha val1 beta * val2 gamma * + *

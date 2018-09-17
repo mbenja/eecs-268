@@ -1,0 +1,6 @@
+removing nodes from binary search tree
+	- leaf node: just remove it
+	- node that has 1 child: remove it and replace it with it’s only child
+	- node that has 2 children: replace with next elements smallest child
+
+if two games have the same name, refer to platform to determine how to order them
